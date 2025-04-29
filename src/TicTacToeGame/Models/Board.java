@@ -32,4 +32,5 @@ public class Board {
     public void setBoard(List<List<Cell>> board) {
         this.board = board;
     }
+
 }
